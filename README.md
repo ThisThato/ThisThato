@@ -11,6 +11,7 @@
 - :briefcase: I'm currently available for work.
 
 <br>
+
 ## Let's Connect :earth_africa:
 <p align="left">
   <a href="mailto:thatokamomotaung@gmail.com">
