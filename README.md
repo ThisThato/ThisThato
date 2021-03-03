@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ThisThato/ThisThato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MERN Stack projects inluding React Native
+- 🌱 I’m currently learning ML and data Science
+- 💬 Ask me about anything React and .Net
+
+<img align="right" width="300px" src="./bio-image.svg" />
+
+<p align="left">
+  <a href="mailto:thatokamomotaung@gmail.com">
+    <img src="https://img.shields.io/badge/-thatokamomotaung@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thatokamomotaung@gmail.com" />
+  </a>
+ 
+</p>
+
