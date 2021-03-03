@@ -15,8 +15,8 @@
 
 <br>
 
-- :rocket: Skills: <strong>C# | CSS3(Sass) | JavaScript (ES6+) | Node.js | NPM / Yarn .</strong>
-- :mortar_board: Studying: <strong>ReactJS</strong>.
+- :rocket: Skills: <strong>C# | ReactJs | CSS3(Sass) | JavaScript (ES6+) | Node.js | NPM / Yarn .</strong>
+- :mortar_board: Learning: <strong>Data Science</strong>.
 - :briefcase: I'm currently available for work.
 
 <br>
