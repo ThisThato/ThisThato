@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on MERN Stack projects inluding React Native
 - 🌱 I’m currently learning ML and data Science
 - 💬 Ask me about anything React and .Net
