@@ -1,5 +1,8 @@
 # Thato Motaung
 
+<p>
+  Full stack developer, creating what I am passionate about through Javascript frameworks && .Net core. 
+</p>
 
 <p align="left">
   <a href="mailto:thatokamomotaung@gmail.com">
