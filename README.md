@@ -11,8 +11,7 @@
 - :briefcase: I'm currently available for work.
 
 <br>
-
-## Let's Connect :earth_africa
+## Let's Connect :earth_africa:
 <p align="left">
   <a href="mailto:thatokamomotaung@gmail.com">
     <img src="https://img.shields.io/badge/-thatokamomotaung@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thatokamomotaung@gmail.com" />
