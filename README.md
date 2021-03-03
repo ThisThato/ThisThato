@@ -7,7 +7,7 @@
 <br>
 
 - :rocket: Skills: <strong> C# | ReactJs | CSS3(Sass) | JavaScript (ES6+) | .Net | Node.js | NPM / Yarn .</strong>
-- :mortar_board: Learning: <strong>Data Science</strong>.
+- :mortar_board: Learning: <strong>Datbase Systems</strong>.
 - :briefcase: I'm currently available for work.
 
 <br>
