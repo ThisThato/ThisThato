@@ -1,4 +1,4 @@
-# Hi, I am Thato 👋🏾
+# Hi, ke nna Thato 👋🏾
 
 <p>
  I am a full stack developer, creating what I am passionate about through Javascript frameworks && .Net core. 
