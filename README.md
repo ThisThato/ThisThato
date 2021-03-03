@@ -15,7 +15,7 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3(Sass) | JavaScript (ES6+) | Node.js | NPM / Yarn | PostgreSQL.</strong>
+- :rocket: Skills: <strong>C# | CSS3(Sass) | JavaScript (ES6+) | Node.js | NPM / Yarn .</strong>
 - :mortar_board: Studying: <strong>ReactJS</strong>.
 - :briefcase: I'm currently available for work.
 
