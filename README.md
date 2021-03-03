@@ -1,7 +1,5 @@
-### Hi there 👋
+#Thato Motaung
 
-
-<img align="right" width="300px" src="./bio-image.svg" />
 
 <p align="left">
   <a href="mailto:thatokamomotaung@gmail.com">
