@@ -8,7 +8,6 @@
 
 - :rocket: Skills: <strong> C# | ReactJs | CSS3(Sass) | JavaScript (ES6+) | .Net | Node.js | NPM  .</strong>
 - :mortar_board: Learning: <strong>Smart contracts</strong>.
-- :briefcase: I'm currently available for work.
 
 <br>
 
