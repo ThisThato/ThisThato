@@ -1,4 +1,4 @@
-# Hi, Thato here 👋🏾
+# Dumela, Thato here 👋🏾
 
 <p>
  I am a full stack developer, creating what I am passionate about through Javascript frameworks && .Net core. 
