@@ -1,4 +1,4 @@
-# Dumela, Thato here 👋🏾
+# Hey, Thato here 👋🏾
 
 <p>
  I am a full stack developer, creating what I am passionate about through Javascript frameworks && .Net core. 
@@ -7,7 +7,7 @@
 <br>
 
 - :rocket: Skills: <strong> C# | ReactJs | CSS3(Sass) | JavaScript (ES6+) | .Net | Node.js | NPM  .</strong>
-- :mortar_board: Learning: <strong>Smart contracts</strong>.
+- :mortar_board: Learning: <strong>Angular</strong>.
 
 <br>
 
