@@ -6,8 +6,8 @@
 
 <br>
 
-- :rocket: Skills: <strong> C# | ReactJs | CSS3(Sass) | JavaScript (ES6+) | .Net | Node.js | NPM  .</strong>
-- :mortar_board: Learning: <strong>Angular && Typescript</strong>.
+- :rocket: Skills: <strong> C# | TypeScript | Angular2+ | ReactJs | CSS3(Sass) | JavaScript (ES6+) | .Net | Node.js .</strong>
+- :mortar_board: Learning: <strong>Microservices</strong>.
 
 <br>
 
