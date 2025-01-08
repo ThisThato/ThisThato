@@ -7,7 +7,7 @@
 <br>
 
 - :rocket: Skills: <strong> C# | TypeScript | Angular2+ | ReactJs | CSS3(Sass) | JavaScript (ES6+) | .Net | Node.js .</strong>
-- :mortar_board: Learning: <strong>All Things Needed</strong>.
+- :mortar_board: Learning: <strong>Azure</strong>.
 
 <br>
 
