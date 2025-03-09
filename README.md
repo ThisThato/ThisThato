@@ -6,14 +6,15 @@
 
 <br>
 
-- :rocket: Skills: <strong> C# | TypeScript | Angular2+ | ReactJs | CSS3(Sass) | JavaScript (ES6+) | .Net | Node.js .</strong>
-- :mortar_board: Learning: <strong>Azure</strong>.
+- :rocket: Skills: <strong> C# | TypeScript | Angular | ReactJs | JavaScript (ES6+) | .Net | Node.js .</strong>
+- :mortar_board: Learning: <strong>Cloud Architecture</strong>.
+- ⚒️ Building: <strong>Apex</strong>.
 
 <br>
 
  ## Let's Connect :earth_africa:
 <p align="left">
-  <a href="mailto:thatokamomotaung@gmail.com">
+  <a href="mailto:thatomotaung.dev@gmail.com">
     <img src="https://img.shields.io/badge/-thatokamomotaung@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thatokamomotaung@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/thato-motaung-3a727814a/">
