@@ -6,7 +6,7 @@
 
 <br>
 
-- :rocket: Skills: <strong> C# | TypeScript | Angular | ReactJs | JavaScript (ES6+) | .Net | Node.js .</strong>
+- :rocket: Skills: <strong> C# | TypeScript | Angular | ReactJs | .Net | Node.js .</strong>
 - :mortar_board: Learning: <strong>Cloud Architecture</strong>.
 - ⚒️ Building: <strong>Apex</strong>.
 
